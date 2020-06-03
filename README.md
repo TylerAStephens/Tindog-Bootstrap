@@ -1,5 +1,4 @@
 ## tindog
-https://tylerastephens.github.io/tindog-bootstrap/
 Looking for a new pup to add to the family? Tired of surfing the web for endless puppy websites? 
 Scroll amoung all the "top dogs" in your area with 'tindog'!
 
